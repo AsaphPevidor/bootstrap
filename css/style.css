@@ -1,0 +1,42 @@
+
+body
+{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar
+{
+    background-color: #1a7d21;
+}
+
+.quem-somos
+{
+    background-color: gray;
+    padding: 30px;
+    padding-bottom: 40px;
+}
+
+.rounded-circle
+{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.parceiros
+{
+    padding: 30px;
+    background-color: rgb(122, 112, 112);
+}
+
+img
+{
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.creditos
+{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
